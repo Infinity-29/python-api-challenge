@@ -1,0 +1,8 @@
+Observational Trends
+1>Max Temp increase  when Latitude degree shifts towards equator: Thats why we see weather is  hot at equator and cold at north and  south poles
+
+2>Maximum temperature increases as the latitude moves towards 0 degree and then decreases when latitude increases :
+As temperature is inversely related to latitudet thats why when  latitude increases, the temperature falls, and vice versa.
+
+3>Humidity can be high in northern and southern hemisphere both : It depends on the month of the year to observe the correct trends of humidity in either of hemispheres.
+
